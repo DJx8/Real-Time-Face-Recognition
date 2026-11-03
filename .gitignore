@@ -1,0 +1,17 @@
+# Python environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Personal face data
+data/*.json
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
